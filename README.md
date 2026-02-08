@@ -49,6 +49,5 @@ STEP 7: Output final hypothesis
 
 RESULT:
 
-The Find-S algorithm was successfully implemented on the Student Performance dataset. After processing all positive examples, the final hypothesis became fully generalized with all attributes marked as “?”. This
-
+The Find-S algorithm was successfully implemented on the Student Performance dataset. After processing all positive examples, the final hypothesis became fully generalized with all attributes marked as “?”. This 
 indicates that no single attribute pattern is common across all good-performance students, and therefore the most specific consistent hypothesis is fully generalized.
