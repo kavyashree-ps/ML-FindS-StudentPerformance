@@ -5,12 +5,12 @@ To implement the Find-S concept learning algorithm on the Student Performance da
 
 DATASDET DESCRIPTION:
 The Student Performance dataset contains 10,001 student records with the following attributes:
-Hours Studied — number of hours studied
-Previous Scores — previous exam marks
-Extracurricular Activities — Yes/No participation
-Sleep Hours — daily sleep duration
-Sample Question Papers Practiced — number of papers solved
-Performance Index — final performance score
+Hours Studied - number of hours studied
+Previous Scores - previous exam marks
+Extracurricular Activities - Yes/No participation
+Sleep Hours - daily sleep duration
+Sample Question Papers Practiced - number of papers solved
+Performance Index - final performance score
 Since Find-S requires categorical attributes and a binary target:
 Numeric attributes were converted into categorical ranges
 Performance Index was converted into class label:
